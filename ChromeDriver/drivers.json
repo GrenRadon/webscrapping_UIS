@@ -1,6 +1,6 @@
 {
-    "linux64_chromedriver_94.0.4606.113_for_94.0.4606": {
-        "timestamp": "12/11/2021",
-        "binary_path": "ChromeDriver/drivers/chromedriver/linux64/94.0.4606.113/chromedriver"
+    "linux64_chromedriver_100.0.4896.60_for_100.0.4896": {
+        "timestamp": "21/05/2022",
+        "binary_path": "ChromeDriver/drivers/chromedriver/linux64/100.0.4896.60/chromedriver"
     }
 }
